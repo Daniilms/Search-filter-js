@@ -16,8 +16,8 @@ You can try search-filter online at: https://daniilms.github.io/Search-filter-js
 
 ### Live server extension
 
-1.`git clone` the repository
-2.Use 'Live Server' Extension in VS Code
+1. `git clone` the repository
+2. Use 'Live Server' Extension in VS Code
 
 ### Local server
 
