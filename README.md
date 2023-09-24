@@ -2,15 +2,15 @@
 
 ## About
 
-Simple search-filter component
+  Simple search-filter component
 
 ## Current status
 
-The application is in final condition.
+  The application is in final condition.
 
 ## Live version
 
-You can try search-filter online at: https://daniilms.github.io/Search-filter-js/.
+  You can try search-filter online at: https://daniilms.github.io/Search-filter-js/.
 
 ## Running localy
 
@@ -28,7 +28,7 @@ You can try search-filter online at: https://daniilms.github.io/Search-filter-js
 
 ## How to use
 
-Start input smth.
+  Start input smth.
 
 ## Used technologies
 
