@@ -6,11 +6,11 @@ Simple search-filter component
 
 ## Current status
 
-The application is in final statement.
+The application is in final condition.
 
 ## Live version
 
-You can try search-filter online at:  .
+You can try search-filter online at: 'https://daniilms.github.io/Search-filter-js/'.
 
 ## Running localy
 ### Live server extension
